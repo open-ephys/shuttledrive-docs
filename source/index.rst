@@ -26,7 +26,7 @@ The 16 tetrode implant weighs approximately 2 grams, so it can be used in freely
 The flexible recording array geometry allows recordings from multiple brain areas. Individual lowering of each electrode makes it possible to hit deep and small targets. The drive is easy to build, two or three drives can be built per day even with relatively little training. It accommodates arbitrary spatial arrangements of electrodes, and is compatible with a variety of recording systems.
 
 
-This design is the successor to the flexDrive, and has improved build speed, robustness, size, and drive stability and linearity. 
+This design is the successor to the flexDrive, and has improved build speed, robustness, size, and drive stability and linearity.
 The documentation for the flexDrive is available :ref:`here <flexdriveoverview>`.
 
 
@@ -40,7 +40,7 @@ Getting Started
             <div class="col-lg-3 col-md-6 col-sm-12 col-xs-12 d-flex">
                 <a href = ../html/pages/assemblyguide.html>
                 <div class="card text-center intro-card shadow" style="width: 22rem;">
-                <img src="_static/images/noun_screwdriver.svg" class="card-img-top" alt="Open Ephys logo" height="160">
+                <img src="_static/images/noun_screwdriver.svg" class="card-img-top" height="160">
                 <div class="card-body flex-fill">
                     <h4 class="card-title">Building a Drive</h5></a>
 
@@ -50,7 +50,7 @@ Getting Started
                 </div>
             </div>
             <div class="col-lg-3 col-md-6 col-sm-12 col-xs-12 d-flex">
-                <a href = ../html/partslist.html#partslist>
+                <a href = ../html/pages/usingdrive.html>
                 <div class="card text-center intro-card shadow" style="width: 22rem;">
                 <img src="_static/images/shuttledrive.svg" class="card-img-top" height="160">
                 <div class="card-body flex-fill">
@@ -64,7 +64,7 @@ Getting Started
             <div class="col-lg-3 col-md-6 col-sm-12 col-xs-12 d-flex">
                 <a href = "https://iopscience.iop.org/article/10.1088/1741-2552/ab77f9">
                 <div class="card text-center intro-card shadow" style="width: 22rem;">
-                <img src="_static/images/paper.svg" class="card-img-top" alt="Some books" height="160">
+                <img src="_static/images/paper.svg" class="card-img-top" height="160">
                 <div class="card-body flex-fill">
                     <h4 class="card-title">ShuttleDrive Paper</h5></a>
 
@@ -76,7 +76,7 @@ Getting Started
             <div class="col-lg-3 col-md-6 col-sm-12 col-xs-12 d-flex">
                 <a href = "https://open-ephys.org/drive-implant/drive-parts">
                 <div class="card text-center intro-card shadow" style="width: 22rem;">
-                <img src="_static/images/noun_macbook.svg" class="card-img-top" alt="A laptop" height="160">
+                <img src="_static/images/noun_macbook.svg" class="card-img-top" height="160">
                 <div class="card-body flex-fill">
                     <h4 class="card-title">Buy Parts Here</h5></a>
 
