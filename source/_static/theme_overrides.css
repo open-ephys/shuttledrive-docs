@@ -33,21 +33,23 @@
   font-weight: bold;
 }
 
-/* navigation bar colors*/
+/* navigation bar: main upper bar color*/
 .navbar {
-  background: #009933 !important;
+  background: #afc991 !important;
   font-size: 1em;
 }
 
+/* navigation bar: text background color and text color when selected*/
 .navbar-nav > .active > .nav-link {
-  background-color: #f4d050 !important;
-  color: #004d26 !important;
+  background-color: #e6eddf !important;
+  color: #2f401f !important;
   font-weight: normal !important;
   transition-duration: 0.4s;
 }
 
+/* navigation bar: text color of active page when hovered*/
 .navbar-nav > .active > .nav-link:hover {
-  color: #519141 !important;
+  color: #2f401f !important;
   transition-duration: 0.4s;
 }
 
@@ -58,8 +60,9 @@
   margin-right: 10px;
 }
 
+/* navigation bar: text color of page titles when hovered*/
 .navbar a:hover {
-  color: #f9f2d5 !important;
+  color: #2f401f !important;
   transition-duration: 0.4s;
 }
 

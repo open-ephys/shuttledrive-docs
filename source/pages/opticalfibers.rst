@@ -43,7 +43,7 @@ If independent adjustment of the fiber depth throughout the experiment is desire
 
 In this design, the fiber is lowered into a guide tube and glued to the spring in place of a shuttle tube. The free upper end of the fiber with the ferrule connector (extending ~2 cm past the spring) is then looped around and fixed perpendicular to the electrode interface board using epoxy. This free loop provides enough flexibility for the fiber to move up and down. If desired, electrodes can be glued to the fibers at constant depth offset. In practice, we find that attaching 2 ferrules to the electrode interface board is straightforward, though in principle up to 16 fibers could be attached.
 
-.. image:: ../static/images/variant_moveable_fibers_example.png
+.. image:: ../_static/images/variant_moveable_fibers_example.png
   :align: center
 
 

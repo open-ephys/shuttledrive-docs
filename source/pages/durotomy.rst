@@ -11,9 +11,6 @@ Mouse Durotomy
             <div id="main" class="aui-page-panel">
 
                 <div id="content" class="view">
-                    <div class="page-metadata">
-                    Created by <span class='author'> Jakob Voigts</span>
-                    </div>
                     <h3 id="warningprotocol."><span style="color: rgb(255,102,0);">This outline is a suggestion based on methods that we found to work well - all methods are subject to protocol approval at your institution. </span></h3>
                     <div id="main-content" class="wiki-content group">
                     <p> Durotomies are often needed because of: regrowth, serial lowering into brain, to avoid bunching of tetrodes</p><p> </p><h3>Basic steps for successful durotomy in mice</h3>

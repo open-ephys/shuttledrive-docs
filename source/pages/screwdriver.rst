@@ -24,8 +24,8 @@ Building the screwdriver
 
 Such screwdrivers can be made by gluing or soldering a screw into the end of a piece of steel tube with an ID of close to 1 mm. Thin-walled tubes are recommended because thicker tubes will interfere with the rest of the drive body when adjusting. The screw used for this should be inspected to make sure that the protruding half-moon section is on the smaller side, so it can interface with other screws. It can also help to carefully bevel the edge of this section with fine sandpaper. The screw should be slightly recessed into the steel tube so that the screwdriver can be locked onto a screw axially first, and then rotated to snap into the mating screw rotationally. A 3D-printed screwdriver handle and detailed tube measurements and sources are available on the git repository.
 
-Assembled or unassembled screwdrivers can be bought in the `Open Ephys Production Site store <https://open-ephys.org/drive-implant/drive-screwdriver>`_
+Assembled or unassembled screwdrivers can be bought in the `Open Ephys Production Site store <https://open-ephys.org/drive-implant/drive-screwdriver>`_.
 
-.. image:: ../../_static/images/makingscrewdriver.jpg
+.. image:: ../_static/images/makingscrewdriver.jpg
 
 A handle can be made by applying heat-shrink tubing to the cannula, or by 3D printing the handle from files available on the git repository.
