@@ -86,25 +86,38 @@
   border-left: 2px solid #da714a;
 }
 
-
 /* body links (external) */
-a.reference.external {
-  color: #9a5035;
+a {
+  color: #0086b3;
 }
 
-a.reference.external:hover {
-  text-decoration: underline;
-  text-decoration-color: #9a5035;
-}
-
-/* body links (internal) */
-a.reference.internal {
-  color: #3c81be;
-}
-
-a.reference.internal:hover {
-  color: #5fb5dc;
+a:hover {
+  color: #004d66;
   text-decoration: none;
+}
+
+a.reference.external:after {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  content: ' \f35d';
+  font-size: 0.5em;
+  vertical-align: super;
+}
+
+a.external-link:after {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  content: ' \f35d';
+  font-size: 0.5em;
+  vertical-align: super;
+}
+
+p.card-reference {
+  margin: 2.75rem 0 1.05rem;
+  font-family: "Bitter", sans-serif;
+  font-weight: 400;
+  line-height: 1.15;
+  font-size: 1.1em;
 }
 
 /* header links */
@@ -117,16 +130,6 @@ a.headerlink:hover {
   color: #ceacca;
   background-color: white;
   transition-duration: 0.2s;
-}
-
-/* Main text links (external) */
-a.reference.external:after {
-  background: transparent url(external.svg) 0 0 no-repeat !important;
-  background-size: 14px;
-  content: "";
-  height: 13px;
-  margin-left: 2px;
-  width: 13.5px;
 }
 
 /* text fonts and colors */

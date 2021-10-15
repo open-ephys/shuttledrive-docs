@@ -32,9 +32,8 @@ ShuttleDrive Tetrode Drive
           <li><p>Fully enclosed mechanism</p></li>
           <li><p>Low center of gravity</p></li>
           <li><p>Easy and fast to assemble</p></li>
-          <li><p>Note that there is a design available for a 256 channel, 64 tetrode drive <a class="reference external" href="https://github.com/open-ephys/shuttle-drive/tree/master/large_64drives">here <i class="fas fa-external-link-alt" style = "font-size:50%"></i></a></p></li>
+          <li><p>Note that there is a design available for a 256 channel, 64 tetrode drive <a class="reference external" href="https://github.com/open-ephys/shuttle-drive/tree/master/large_64drives">here</a></p></li>
           </ul>
-          </p>
         </div>
       </div>
     </div>
@@ -56,47 +55,53 @@ Getting Started
 
   <div class="container">
     <div class="row">
-      <div class="col-lg-3 col-md-6 col-sm-12 col-xs-12 d-flex">
-        <a class = "reference internal" href = ../pages/assemblyguide.html>
-          <div class="card text-center intro-card shadow">
+
+      <div class="col-lg-3 col-md-6 col-sm-12 col-xs-12 d-flex" >
+        <a href = pages/assemblyguide.html>
+          <div class="card h-100 text-center intro-card shadow">
             <img src="_static/images/noun_screwdriver.svg" class="card-img-top" height="160">
             <div class="card-body flex-fill">
-              <h4 class="card-title">Building a Drive</h4>
-            </div></div></a>
-          </div>
-          <div class="col-lg-3 col-md-6 col-sm-12 col-xs-12 d-flex">
-            <a class = "reference internal" href = ../pages/usingdrive.html>
-              <div class="card text-center intro-card shadow">
-                <img src="_static/images/shuttledrive.svg" class="card-img-top" height="160">
-                <div class="card-body flex-fill">
-                  <h4 class="card-title">Using the Drive</h4>
-                </div>
-              </div>
-            </a>
-          </div>
-
-          <div class="col-lg-3 col-md-6 col-sm-12 col-xs-12 d-flex">
-            <div class="card text-center intro-card shadow">
-              <a class = "reference external" href = "https://iopscience.iop.org/article/10.1088/1741-2552/ab77f9" target="_blank" rel="noopener noreferrer">
-                <img src="_static/images/paper.svg" class="card-img-top" height="160">
-                <div class="card-body flex-fill">
-                  <h4 class = "reference external">ShuttleDrive Paper <i class="fas fa-external-link-alt" style = "font-size:50%"></i></h4>
-                </div>
-              </a>
+              <p class="card-reference">Building a Drive</p>
             </div>
           </div>
-          <div class="col-lg-3 col-md-6 col-sm-12 col-xs-12 d-flex">
-            <a class = "reference external" href = "https://open-ephys.org/drive-implant/drive-parts" target="_blank" rel="noopener noreferrer">
-              <div class="card text-center intro-card shadow">
-                <img src="_static/images/noun_macbook.svg" class="card-img-top" height="160" >
-                <div class="card-body flex-fill">
-                  <h4 class="card-title">Buy Drive Parts <i class="fas fa-external-link-alt" style = "font-size:50%"></i></h4>
-                </div>
-              </div>
-            </a>
+        </a>
+      </div>
+
+      <div class="col-lg-3 col-md-6 col-sm-12 col-xs-12 d-flex">
+        <a class="card-reference" href = pages/usingdrive.html>
+          <div class="card h-100 text-center intro-card shadow">
+            <img src="_static/images/shuttledrive.svg" class="card-img-top" height="160">
+            <div class="card-body flex-fill">
+              <p class="card-reference">Using the Drive</p>
+            </div>
           </div>
+        </a>
+      </div>
+
+      <div class="col-lg-3 col-md-6 col-sm-12 col-xs-12 d-flex">
+        <div class="card h-100 text-center intro-card shadow" >
+          <a class="card-reference" href = "https://iopscience.iop.org/article/10.1088/1741-2552/ab77f9" target="_blank" rel="noopener noreferrer">
+            <img src="_static/images/paper.svg" class="card-img-top" height="160">
+            <div class="card-body flex-fill">
+              <p class="card-reference">ShuttleDrive Paper <i class="fas fa-external-link-alt" style = "font-size:0.5em; vertical-align: super"></i></p>
+            </div>
+          </a>
         </div>
       </div>
+
+      <div class="col-lg-3 col-md-6 col-sm-12 col-xs-12 d-flex">
+        <div class="card h-100 text-center intro-card shadow">
+          <a class="card-reference" href = "https://open-ephys.org/drive-implant/drive-parts" target="_blank" rel="noopener noreferrer">
+            <img src="_static/images/noun_macbook.svg" class="card-img-top" height="160" >
+            <div class="card-body flex-fill">
+              <p class="card-reference">Buy Drive Parts <i class="fas fa-external-link-alt" style = "font-size:0.5em; vertical-align: super"></i></p>
+            </div>
+          </a>
+        </div>
+      </div>
+
+    </div>
+  </div>
 
 
 

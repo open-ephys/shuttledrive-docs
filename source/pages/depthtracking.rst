@@ -14,6 +14,9 @@ The 16-tetrode mouse shuttleDrive has a screw pitch (the distance between adjace
 .. figure:: ../_static/images/tetrodedepth.jpg
   :align: center
   :alt: Tetrode travel per screw turn for rat and mouse shuttledrive
+  :width: 1725
+  :height: 694
+  :scale: 70%
 
 .. raw:: html
 
