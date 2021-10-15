@@ -4,9 +4,9 @@
 Adding Optical Fibers
 *************************************************
 
-Optical fibers can be added to the shuttleDrive. We recommend inserting the fibers after loading the electrodes, as usually some fibers extend past the drive bottom, so they would interfere with cutting the electrodes. Inserting fibers into the array through prepared openings (see section on making the guide tube array for details) is easier if the drive isn't shielded yet. If movable fibers are needed, see below for details on how to insert flexible 125u fibers instead, or along with, electrodes.
+Optical fibers can be added to the shuttleDrive. We recommend inserting the fibers after loading the electrodes, as usually some fibers extend past the drive bottom, so they would interfere with cutting the electrodes. Inserting fibers into the array through prepared openings (see section on making the guide tube array for details) is easier if the drive isn't shielded yet. If movable fibers are needed, see below for details on how to insert flexible fibers instead of electrodes.
 
-This section assumes that you use 125 or 200 micron glass fibers. Most steps will be the same for plastic fibers.
+This section assumes that you use glass fibers. Most steps will be the same for plastic fibers.
 
 Making fiber stubs by hand
 ###############################################
@@ -18,7 +18,7 @@ Cut a length of fiber, and remove the plastic cladding. This is much easier done
 
 For added safety, cut a small slot or two into the bottom of the ferrule to ensure that it won't slip out of the epoxy. This is especially important for ceramic ferrules. Use a high speed cutting wheel for this.
 
-Now glue the ferrules to the fiber. One easy process is to line up ~5 ferrules on the long fiber, add a drop of glue under each one, and then sliding them over the glue.
+Now glue the ferrules to the fiber. One easy process is to line up ~5 ferrules on the long fiber, add a drop of glue under each one, and then slide them over the glue.
 Ferrules  have two sides, a convex and a concave one. The convex side needs to be facing the fiber patch cable, the concave side is where the longer piece of free fiber sticks out. Reversing the sides will likely  make it impossible to achieve good coupling.
 
 Once the glue is set, cut the long piece into individual stubs above each ferrule by scoring with the diamond pen and breaking them. Make sure that the cut is not going below the ferrule face or it will be impossible to polish the fiber.
@@ -39,12 +39,9 @@ If you left an opening in the guide tube array for the fiber to go through, drop
 
 Mobile optical Fibers
 #################################################
-If independent adjustment of the fiber depth throughout the experiment is desired, one or more small diameter fibers (~125μ) can be inserted in place of electrodes and can be lowered using the same mechanism. We found larger diameter fibers not sufficiently flexible for this method.
+If independent adjustment of the fiber depth throughout the experiment is desired, one or more small diameter fibers can be inserted in place of electrodes and can be lowered using the same mechanism. We found larger diameter fibers not sufficiently flexible for this method.
 
-In this design, the fiber is lowered into a guide tube and glued to the spring in place of a shuttle tube. The free upper end of the fiber with the ferrule connector (extending ~2 cm past the spring) is then looped around and fixed perpendicular to the electrode interface board using epoxy. This free loop provides enough flexibility for the fiber to move up and down. If desired, electrodes can be glued to the fibers at constant depth offset. In practice, we find that attaching 2 ferrules to the electrode interface board is straightforward, though in principle up to 16 fibers could be attached.
+In this design, the fiber is lowered into a guide tube and glued to the shuttle. You may need to leave out neighbouring shuttles to make space for this. If desired, electrodes can be glued to the fibers at constant depth offset. In practice, we find that attaching 2 ferrules to the electrode interface board is straightforward, though in principle up to 16 fibers could be attached.
 
 .. image:: ../_static/images/variant_moveable_fibers_example.png
   :align: center
-
-
-This variant of the flexDrive enables researchers to precisely position optical fibers to electrically identified target areas, or to compare optical manipulation of neural activity in different positions in the same animal. Further, this method enables the collection of optical signals from fluorescent probes while simultaneously recording extracellularly.

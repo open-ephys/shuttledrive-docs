@@ -21,12 +21,13 @@ Tools
 ################################################
 * `Assembly jig <https://open-ephys.org/drive-implant/drive-assembly-jig>`_
 * `Custom screwdriver <https://open-ephys.org/drive-implant/drive-screwdriver>`_
+
 (Refer to the full list below for additional tools such as forceps etc.)
 
 Full parts list
 ################################################
 
-In addition, you will need some general consumables and equipment. Use this list to make sure your assembly station has everything you need. 
+In addition, you will need some general consumables and equipment. Use this list to make sure your assembly station has everything you need.
 
 .. raw:: html
 
