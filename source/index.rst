@@ -16,7 +16,8 @@ ShuttleDrive Tetrode Drive
   <div class="row">
     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 d-flex">
       <div class="card border-light">
-        <img class="card-img-top" src="_static/images/shuttleDrive_drawing.png" alt="ShuttleDrive Tetrode Drive">
+        <img class="card-img-top" src="_static/images/shuttleDrive_drawing.png" alt="ShuttleDrive Tetrode Drive" style="margin: 0 auto">
+        <a href="https://github.com/open-ephys/shuttle-drive" class="btn btn-primary" style="background-color:#f4d050;border-color:#f4d050; width: 180px; margin: auto">ShuttleDrive Design Files</a>
       </div>
     </div>
     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 d-flex" style="margin-top: 0em!important">
