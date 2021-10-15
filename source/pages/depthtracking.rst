@@ -11,12 +11,11 @@ ShuttleDrive Properties
 
 The 16-tetrode mouse shuttleDrive has a screw pitch (the distance between adjacent threads on the screw) of 0.15 mm/turn, and the correspondence of screw pitch to travel range is almost completely linear, so for each turn you can expect your tetrode to lower by 0.15 mm (when the drive is in air, see below).
 
-.. figure:: ../_static/images/tetrodedepth.jpg
+.. image:: ../_static/images/tetrodedepth.jpg
   :align: center
   :alt: Tetrode travel per screw turn for rat and mouse shuttledrive
-  :width: 1725
-  :height: 694
-  :scale: 70%
+  :width: 500 px
+
 
 .. raw:: html
 
