@@ -32,8 +32,8 @@ The above measurements are performed in air, to characterize the mechanical hyst
 
 Lowering electrodes
 **************************************************
-Electrodes can be lowered as soon as the animal has recovered from surgery and is nesting. Delaying the onset of the lowering for more than ~5 days post surgery increases the risk that dura and bone regrowth interferes with the electrodes. Putting the mouse in a head-post on a floating ball avoids putting any torque on the implant if the mouse tries to run/jump.
+Electrodes can be lowered as soon as the animal has recovered from surgery and is nesting. Delaying the onset of the lowering for more than ~5 days post surgery increases the risk that dura and bone regrowth interferes with the electrodes. Putting the mouse in a head-post on a floating ball, or on a flat smooth surface avoids putting torque on the implant if the mouse tries to run/jump during initial adjustments.
 
-Lower one tetrode (or max. 2 tetrodes if they're at opposite ends of the array) at a time to avoid bunching. Wait >3hrs between lowering sessions to allow the brain to settle.
+It can be beneficial to lower only one or two tetrodes at a time to avoid bunching. Waiting >2 hrs between lowering sessions to allow the brain to settle is also not a bad idea. This goes more for initial insertions into the brain. Keep in mind that the brain will initially be swollen after surgery, and depending on the position of the guide tube array relative to the brains non-swollen position, tetrode depths will change as the swelling subsides.
 
 Try to record data during these lowering sessions and actually look at it, in e.g. simpleclust (or whatever spike sorting method you like) to check if you get units - L1 MUA can look surprisingly like units unless you look closely and sorting is the best way to know for sure when any given tetrode is in rather than just on the brain.

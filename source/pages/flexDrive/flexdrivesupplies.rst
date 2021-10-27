@@ -1,7 +1,7 @@
 .. _flexdrivesupplies:
 
 *************************************************
-flexDrive Supplies and Tools
+FlexDrive Supplies and Tools
 *************************************************
 
 .. raw:: html
