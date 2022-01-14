@@ -41,6 +41,7 @@ The flexDrive is a chronic drive implant for extracellular electrophysiology tha
                   <li class="toctree-l1"><a class="reference internal" href="flexdrivesupplies.html">flexDrive Supplies and Tools </a></li>
                   <li class="toctree-l1"><a class="reference internal" href="flexDrive-FAQ.html">FlexDrive FAQ</a></li>
                   <li class="toctree-l1"><a class="reference internal" href="flexDrive-in-Rats.html">FlexDrive in Rats</a></li>
+                  <li class="toctree-l1"><a class="reference internal" href="twosites.html">Two-Site Implants</a></li>
                 </ul>
               </div>
             </div>
@@ -80,6 +81,7 @@ The flexDrive is a chronic drive implant for extracellular electrophysiology tha
   flexDrive-FAQ.rst
   flexdrivesupplies.rst
   flexDrive-in-Rats.rst
+  twosites.rst
   1---Building-the-guide-tube-array.rst
   2---Assembling-the-spring.rst
   3---Soldering-the-EIB.rst

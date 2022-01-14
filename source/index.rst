@@ -49,61 +49,56 @@ This design is the successor to the flexDrive, and has improved build speed, rob
 The documentation for the flexDrive is available :ref:`here <flexdriveoverview>`.
 
 
-Getting Started
-#################################################
 
 .. raw:: html
 
-  <div class="container">
-    <div class="row">
+    <h2 style = "text-align: center"> Getting Started </h2>
 
-      <div class="col-lg-3 col-md-6 col-sm-12 col-xs-12 d-flex" >
-        <a href = pages/assemblyguide.html>
+    <div class="container">
+      <div class="row row-cols-lg-4 row-cols-md-2 row-cols-sm-1 row-cols-xs-1">
+        <div class="col mb-4">
           <div class="card h-100 text-center intro-card shadow">
-            <img src="_static/images/noun_screwdriver.svg" class="card-img-top" height="160">
-            <div class="card-body flex-fill">
-              <p class="card-reference">Building a Drive</p>
-            </div>
+            <a href = pages/assemblyguide.html>
+                <img src="_static/images/noun_screwdriver.svg" class="card-img-top" height="160">
+                <div class="card-body flex-fill">
+                  <p class="card-reference">Building a Drive</p>
+                </div>
+            </a>
           </div>
-        </a>
-      </div>
-
-      <div class="col-lg-3 col-md-6 col-sm-12 col-xs-12 d-flex">
-        <a class="card-reference" href = pages/usingdrive.html>
+        </div>
+        <div class="col mb-4">
           <div class="card h-100 text-center intro-card shadow">
-            <img src="_static/images/shuttledrive.svg" class="card-img-top" height="160">
-            <div class="card-body flex-fill">
-              <p class="card-reference">Using the Drive</p>
-            </div>
+            <a href = pages/usingdrive.html>
+                <img src="_static/images/shuttledrive.svg" class="card-img-top" height="160">
+                <div class="card-body flex-fill">
+                  <p class="card-reference">Using the Drive</p>
+                </div>
+            </a>
           </div>
-        </a>
-      </div>
+        </div>
+        <div class="col mb-4">
+          <div class="card h-100 text-center intro-card shadow">
+            <a href = "https://iopscience.iop.org/article/10.1088/1741-2552/ab77f9" target="_blank" rel="noopener noreferrer">
+              <img src="_static/images/paper.svg" class="card-img-top" height="160">
+              <div class="card-body flex-fill">
+                <p class="card-reference">ShuttleDrive Paper <i class="fas fa-external-link-alt" style = "font-size:0.5em; vertical-align: super"></i></p>
+              </div>
+            </a>
 
-      <div class="col-lg-3 col-md-6 col-sm-12 col-xs-12 d-flex">
-        <div class="card h-100 text-center intro-card shadow" >
-          <a class="card-reference" href = "https://iopscience.iop.org/article/10.1088/1741-2552/ab77f9" target="_blank" rel="noopener noreferrer">
-            <img src="_static/images/paper.svg" class="card-img-top" height="160">
-            <div class="card-body flex-fill">
-              <p class="card-reference">ShuttleDrive Paper <i class="fas fa-external-link-alt" style = "font-size:0.5em; vertical-align: super"></i></p>
-            </div>
-          </a>
+          </div>
+        </div>
+        <div class="col mb-4">
+          <div class="card h-100 text-center intro-card shadow">
+            <a href = "https://open-ephys.org/drive-implant/drive-parts" target="_blank" rel="noopener noreferrer">
+              <img src="_static/images/noun_macbook.svg" class="card-img-top" height="160" >
+              <div class="card-body flex-fill">
+                <p class="card-reference">Buy Drive Parts <i class="fas fa-external-link-alt" style = "font-size:0.5em; vertical-align: super"></i></p>
+              </div>
+            </a>
+          </div>
         </div>
       </div>
-
-      <div class="col-lg-3 col-md-6 col-sm-12 col-xs-12 d-flex">
-        <div class="card h-100 text-center intro-card shadow">
-          <a class="card-reference" href = "https://open-ephys.org/drive-implant/drive-parts" target="_blank" rel="noopener noreferrer">
-            <img src="_static/images/noun_macbook.svg" class="card-img-top" height="160" >
-            <div class="card-body flex-fill">
-              <p class="card-reference">Buy Drive Parts <i class="fas fa-external-link-alt" style = "font-size:0.5em; vertical-align: super"></i></p>
-            </div>
-          </a>
-        </div>
-      </div>
-
     </div>
-  </div>
-
 
 
 
