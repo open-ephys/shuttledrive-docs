@@ -183,6 +183,7 @@ html_theme_options = {
     "twitter_url": "https://twitter.com/openephys",
     "external_links": [{"name": "Open Ephys", "url": "https://open-ephys.org"},],
     "navigation_with_keys": True,
+    "use_edit_page_button": True,
     # 'search_bar_position' : "navbar",
     #'canonical_url': '',
     #'analytics_id': '',
@@ -203,7 +204,7 @@ html_favicon = "_static/images/favicon.png"
 html_context = {
     "github_user": "open-ephys",
     "github_repo": "shuttledrive-docs",
-    "github_version": "master",
+    "github_version": "main",
     "doc_path": "source",
     "css_files": ["_static/theme_overrides.css",],
 }
