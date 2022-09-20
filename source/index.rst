@@ -1,10 +1,3 @@
-.. toctree::
-    :hidden:
-
-    pages/assemblyguide.rst
-    pages/usingdrive.rst
-    pages/flexDrive/flexdriveoverview.rst
-
 *************************************************
 ShuttleDrive Tetrode Drive
 *************************************************
@@ -100,7 +93,12 @@ The documentation for the flexDrive is available :ref:`here <flexdriveoverview>`
       </div>
     </div>
 
+.. toctree::
+  :maxdepth: 2
 
+  pages/assemblyguide.rst
+  pages/usingdrive.rst
+  pages/flexDrive/flexdriveoverview.rst
 
 License
 #################################################
