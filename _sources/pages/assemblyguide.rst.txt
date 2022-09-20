@@ -5,7 +5,7 @@ Assembling a ShuttleDrive
 *************************************************
 
 .. toctree::
-  :hidden: 
+  :hidden:
 
   partslist.rst
   assemblyjig.rst
@@ -21,10 +21,10 @@ Other resources:
 
 - How to assemble and use the :ref:`screwdriver`.
 
+- Follow the step-by-step sheet provided `here <https://docs.google.com/spreadsheets/d/1qlOEyMCUptONbd9Ac4yKie1TxPHhV1puGx7GZTR9lvk/edit#gid=1386834576>`_ , made by Dimitra Vardalaki, which you can also print and use as a checklist.
+
 - Watch the video on ShuttleDrive Assembly here:
 
 .. raw:: html
 
   <center><iframe width="560" height="340" src="https://www.youtube.com/embed/VBs4_pltE6o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-
-- Follow the step-by-step sheet provided `here <https://docs.google.com/spreadsheets/d/1qlOEyMCUptONbd9Ac4yKie1TxPHhV1puGx7GZTR9lvk/edit#gid=1386834576>`_ , made by Dimitra Vardalaki, which you can also print and use as a checklist.
