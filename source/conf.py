@@ -188,9 +188,10 @@ html_theme_options = {
     "navbar_end": ["navbar-icon-links"],
     "navbar_align": "content",
     "footer_start": ["copyright"],
+    "external_links": [{"name": "Purchase", "url": "https://open-ephys.org/drive-implant"},],
     'icon_links': [
         dict(name='GitHub',
-             url='https://github.com/open-ephys/commutator-docs',
+             url='https://github.com/open-ephys/shuttle-drive',
              icon='fab fa-github'),
         dict(name='Twitter',
              url='https://twitter.com/openephys',
