@@ -1,7 +1,7 @@
 .. _assemblyguide:
 
 *************************************************
-Assembling a ShuttleDrive
+Assembly Guide
 *************************************************
 
 .. toctree::
