@@ -82,7 +82,7 @@ todo_include_todos = True
 html_theme = "pydata_sphinx_theme"
 html_logo = "_static/images/oe_logo_name.svg"
 html_scaled_image_link = True
-
+html_title = project
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
@@ -90,6 +90,11 @@ html_scaled_image_link = True
 html_static_path = ["_static"]
 
 html_style = "_static/theme_overrides.css"
+
+html_sidebars = {
+    'index': ['search-field.html'],
+    "**": ["sidebar-nav-bs.html"]
+}
 
 # Custom sidebar templates, must be a dictionary that maps document names
 # to template names.
@@ -177,14 +182,24 @@ epub_exclude_files = ["search.html"]
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
 # documentation.
-# documentation.
 html_theme_options = {
-    "github_url": "https://github.com/open-ephys",
-    "twitter_url": "https://twitter.com/openephys",
-    "external_links": [{"name": "Open Ephys", "url": "https://open-ephys.org"},],
+    'use_edit_page_button': True,
     "navigation_with_keys": True,
-    "use_edit_page_button": True,
-    # 'search_bar_position' : "navbar",
+    "navbar_end": ["navbar-icon-links"],
+    "navbar_align": "content",
+    "footer_start": ["copyright"],
+    "external_links": [{"name": "Purchase", "url": "https://open-ephys.org/drive-implant"},],
+    'icon_links': [
+        dict(name='GitHub',
+             url='https://github.com/open-ephys/shuttle-drive',
+             icon='fab fa-github'),
+        dict(name='Twitter',
+             url='https://twitter.com/openephys',
+             icon='fab fa-twitter'),
+        dict(name='Discord',
+             url='https://discord.gg/WXAx2URNQU',
+             icon='fab fa-discord')
+    ],
     #'canonical_url': '',
     #'analytics_id': '',
     #'logo_only': False,
@@ -207,6 +222,7 @@ html_context = {
     "github_version": "main",
     "doc_path": "source",
     "css_files": ["_static/theme_overrides.css",],
+    'default_mode': 'light'
 }
 
 # Option for linkcheck

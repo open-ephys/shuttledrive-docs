@@ -1,19 +1,18 @@
-====================================
-ShuttleDrive Documentation
-====================================
+=========
+Documentation for the Open Ephys ShuttleDrive
+=========
 
 This documentation's source template was taken from the `Spinal HDL <https://github.com/SpinalHDL/SpinalDoc-RTD>`_ project.
 
 The theme is based on the `PyData Sphinx Theme <https://pydata-sphinx-theme.readthedocs.io/en/latest/>`_
+
+For more detailed usage instructions, see the `Open Ephys Doc Template <https://github.com/open-ephys/doc-template>`_
 
 How to build this documentation
 ===============================
 
 With pipenv (recommended)
 -----------
-Requirements (system)
-
-* make
 
 Requirements (Python 3):
 
@@ -58,8 +57,7 @@ Requirements (system):
 Requirements (Python 3):
 
 * sphinx
-* sphinx-rtd-theme
-* sphinxcontrib-wavedrom
+* pydata-sphinx-theme=="0.13.3"
 
 After installing the requirements you can run
 
@@ -69,3 +67,4 @@ After installing the requirements you can run
    make latex    # for latex
    make latexpdf # for latex (will require latexpdf installed)
    make          # list all the available output format
+
