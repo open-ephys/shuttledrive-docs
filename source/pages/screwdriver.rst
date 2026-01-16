@@ -6,7 +6,7 @@ Custom Screwdriver
 
 .. raw:: html
 
-  <a href="https://open-ephys.org/drive-implant/drive-screwdriver>" class="btn btn-primary" style="background-color:#f4d050;border-color:#f4d050">Buy Custom Screwdriver</a>
+  <a href="https://open-ephys.org/drive-implant/drive-screwdriver" class="btn btn-primary" style="background-color:#f4d050;border-color:#f4d050">Buy Custom Screwdriver</a>
 
 How the screwdriver works
 #################################################
