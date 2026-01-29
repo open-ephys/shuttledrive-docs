@@ -1,7 +1,7 @@
 .. title:: Home
 
 .. image:: _static/images/shuttleDrive_drawing.png
-  :alt: A drawing of a shuttleDrive
+  :alt: A drawing of a ShuttleDrive
 
 |
 
@@ -36,7 +36,7 @@ See `this repo <https://github.com/open-ephys/shuttle-drive/tree/master/large_64
         </div>
         <a class="reference internal" href="pages/usingdrive.html"><span class="std std-ref custom-card">
         <div class="card text-center intro-card">
-            <img src="_static/images/shuttledrive.svg" class="card-img-top hover-zoom" alt="An image of a shuttleDrive" height="100">
+            <img src="_static/images/shuttledrive.svg" class="card-img-top hover-zoom" alt="An image of a ShuttleDrive" height="100">
             <div class="card-body flex-fill">
                 <h5 class="card-title">User manual</h5>
                 <p class="card-text">How to use the ShuttleDrive</p>

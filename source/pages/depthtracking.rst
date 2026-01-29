@@ -4,16 +4,16 @@
 Electrode depth tracking
 *************************************************
 
-Electrodes in the shuttleDrive are lowered individually by turning the corresponding screw. To know where your electrodes end up, we need to know how far a tetrode is lowered with each full turn. This 'travel range' distance is in practice a combination of the mechanical properties of the drive, the mechanical/biological properties of the brain, and the way you choose to lower your electrodes.
+Electrodes in the ShuttleDrive are lowered individually by turning the corresponding screw. To know where your electrodes end up, we need to know how far a tetrode is lowered with each full turn. This 'travel range' distance is in practice a combination of the mechanical properties of the drive, the mechanical/biological properties of the brain, and the way you choose to lower your electrodes.
 
 ShuttleDrive Properties
 ##################################################
 
-The 16-tetrode mouse shuttleDrive has a screw pitch (the distance between adjacent threads on the screw) of 0.15 mm/turn, and the correspondence of screw pitch to travel range is almost completely linear, so for each turn you can expect your tetrode to lower by 0.15 mm (when the drive is in air, see below).
+The 16-tetrode mouse ShuttleDrive has a screw pitch (the distance between adjacent threads on the screw) of 0.15 mm/turn, and the correspondence of screw pitch to travel range is almost completely linear, so for each turn you can expect your tetrode to lower by 0.15 mm (when the drive is in air, see below).
 
 .. image:: ../_static/images/tetrodedepth.jpg
   :align: center
-  :alt: Tetrode travel per screw turn for rat and mouse shuttledrive
+  :alt: Tetrode travel per screw turn for rat and mouse ShuttleDrive
   :width: 500 px
 
 
