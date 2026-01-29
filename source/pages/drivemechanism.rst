@@ -4,7 +4,7 @@
 Drive Mechanism
 *************************************************
 
-The drive mechanism is designed to allow tetrodes to move linearly when a screw is rotated. The shuttleDrive drive mechanism is formed by a moving shuttle that is pushed up and down by a rotating but otherwise retained screw. The shuttle itself cannot rotate along with the screw, because it is constrained by the guide channel that is part of the drive body.
+The drive mechanism is designed to allow tetrodes to move linearly when a screw is rotated. The ShuttleDrive drive mechanism is formed by a moving shuttle that is pushed up and down by a rotating but otherwise retained screw. The shuttle itself cannot rotate along with the screw, because it is constrained by the guide channel that is part of the drive body.
 
 The screw needs to be prevented from being pushed up and down by the friction of the shuttle and/or the force exerted by the adjustment screwdriver. Here, a custom screw is used that includes a retaining collar under the screw head that is glued into a recess, providing a rudimentary thrust-bearing with a high degree of stability. In addition, the bottom of the screw is retained laterally in a press-fit hole in the drive body.
 

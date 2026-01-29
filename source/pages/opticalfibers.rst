@@ -4,7 +4,7 @@
 Adding Optical Fibers
 *************************************************
 
-Optical fibers can be added to the shuttleDrive. We recommend inserting the fibers after loading the electrodes, as usually some fibers extend past the drive bottom, so they would interfere with cutting the electrodes. Inserting fibers into the array through prepared openings (see section on making the guide tube array for details) is easier if the drive isn't shielded yet. If movable fibers are needed, see below for details on how to insert flexible fibers instead of electrodes.
+Optical fibers can be added to the ShuttleDrive. We recommend inserting the fibers after loading the electrodes, as usually some fibers extend past the drive bottom, so they would interfere with cutting the electrodes. Inserting fibers into the array through prepared openings (see section on making the guide tube array for details) is easier if the drive isn't shielded yet. If movable fibers are needed, see below for details on how to insert flexible fibers instead of electrodes.
 
 This section assumes that you use glass fibers. Most steps will be the same for plastic fibers.
 

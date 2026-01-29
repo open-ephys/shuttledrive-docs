@@ -4,7 +4,7 @@
 Parts list
 *************************************************
 
-You will need some parts and tools designed specifically for the shuttleDrive:
+You will need some parts and tools designed specifically for the ShuttleDrive:
 
 Parts
 ################################################

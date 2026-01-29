@@ -4,7 +4,7 @@
 Archive: FlexDrive
 *************************************************
 
-This is the archive of our documentation for the flexdrive tetrode drive. Note that this is only for reference purposes, we'd recommend upgrading to the shuttleDrive and accordingly only sell shuttleDrive parts in our store.
+This is the archive of our documentation for the flexdrive tetrode drive. Note that this is only for reference purposes, we'd recommend upgrading to the ShuttleDrive and accordingly only sell ShuttleDrive parts in our store.
 
 The flexDrive is a chronic drive implant for extracellular electrophysiology that can be used to individually position up to 16 microwire electrodes or electrode bundles in mice, with up to 64 channels. The implant weighs approximately 2 grams, is easy to build, and accommodates arbitrary spatial arrangements of electrodes.
 
